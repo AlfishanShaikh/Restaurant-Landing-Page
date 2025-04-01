@@ -40,8 +40,6 @@ Restaurant-Landing-Page/
 
 ## 📸 preview 
 
-![image alt]
-
 ![screenshot 1](https://github.com/AlfishanShaikh/Restaurant-Landing-Page/blob/a6ced6585d5e36a3fb07981c68a5077a35e32e12/screenshot%201.png)
 
 ![screenshot 2](https://github.com/AlfishanShaikh/Restaurant-Landing-Page/blob/a6ced6585d5e36a3fb07981c68a5077a35e32e12/screenshot%202.png)
