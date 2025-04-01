@@ -3,7 +3,7 @@
 Welcome to the **Restaurant Landing Page** repository! This project is a simple and elegant restaurant website built with **HTML & CSS**.
 
 ## 🔗 Live Demo
-[Click here to view the live demo](#) *(Replace with GitHub Pages link if deployed)*
+[Click here to view the live demo](https://alfishanshaikh.github.io/Restaurant-Landing-Page/) 
 
 ## 📂 Project Structure
 ```
@@ -39,6 +39,8 @@ Restaurant-Landing-Page/
 3. Open `index.html` in your browser.
 
 ## 📸 preview 
+
+
 
 ## 🏗️ Future Improvements
 - Add JavaScript for interactive elements 🛠️
