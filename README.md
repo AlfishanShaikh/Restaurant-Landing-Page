@@ -40,7 +40,9 @@ Restaurant-Landing-Page/
 
 ## 📸 preview 
 
+![screenshot](https://github.com/AlfishanShaikh/Restaurant-Landing-Page/blob/a6ced6585d5e36a3fb07981c68a5077a35e32e12/screenshot%201.png)
 
+![screenshot](https://github.com/AlfishanShaikh/Restaurant-Landing-Page/blob/a6ced6585d5e36a3fb07981c68a5077a35e32e12/screenshot%202.png)
 
 ## 🏗️ Future Improvements
 - Add JavaScript for interactive elements 🛠️
